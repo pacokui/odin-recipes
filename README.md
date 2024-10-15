@@ -1,2 +1,2 @@
 # odin-recipes
-This is the odin-recipes file
+This is the first project about recipes!
