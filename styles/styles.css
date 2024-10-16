@@ -1,0 +1,45 @@
+.bodyfont{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: rgb(21, 86, 21);
+}
+
+.heading {
+    color: rgb(180, 128, 60);
+    text-align: center;
+}
+
+.desc {
+    color: rgb(85, 93, 81);
+}
+
+.heading2 {
+    text-align: center;
+}
+
+.ingredients {
+    color: rgb(1, 130, 3);
+    font-size: 15px;
+}
+
+.heading4 {
+    font-weight: bold;
+    color: rgb(9, 173, 69);
+}
+
+.steps {
+    font-size: 15px;
+    font-weight: 300;
+    color: green;
+
+}
+
+.heading5 {
+    font-weight: 500;
+    color: black;
+}
+
+.addons {
+    font-size: 12px;
+    color: black;
+}
